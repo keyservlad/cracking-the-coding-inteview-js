@@ -9,4 +9,5 @@ const array = Array.from({ length: 8 }, (_, i) => [i]);
 // const array2 = new Array(8).fill([]);
 
 array[1].push([0, 1]);
-console.table(array);
+// console.table(array);
+
